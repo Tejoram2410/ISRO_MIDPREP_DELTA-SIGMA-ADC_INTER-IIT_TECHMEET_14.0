@@ -1,1 +1,1 @@
-# Delta_Sigma_ADC_ASIC_development_Inter_IIT_Techmeet_14.0
+# Delta-Sigma-ADC-ASIC-development--Inter-IIT-Techmeet-14.0

@@ -1,1 +1,1 @@
-# Delta-Sigma-ADC-ASIC-developement---IIT-Indore
+# Delta-Sigma-ADC-ASIC-developement

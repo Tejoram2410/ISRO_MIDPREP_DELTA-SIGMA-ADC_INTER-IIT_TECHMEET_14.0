@@ -1,1 +1,1 @@
-# Delta-Sigma-ADC-ASIC-developement
+# Delta-Sigma-ADC-ASIC-development

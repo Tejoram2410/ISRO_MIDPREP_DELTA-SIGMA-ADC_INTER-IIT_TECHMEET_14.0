@@ -35,7 +35,7 @@ The objective of the problem statement was to:
 ## 🧠 Technical Contributions
 
 * Behavioral modeling of multiple **Delta–Sigma modulator topologies** (CIFB, CIFF, Hybrid)
-* Quantization and **flicker noise modeling**, including mitigation using auto-zeroing and chopping
+* Quantization and **flicker noise modeling**, including mitigation using auto-zeroing,chopping,and nested chopping
 * Design of a **multi-stage digital decimation chain**:
 
   * CIC decimator

@@ -1,0 +1,7 @@
+
+if {[is_common_ui_mode]} {
+  read_db [file dirname [file normalize [info script]]]/top_module_finalcts.enc.dat
+} else {
+  restoreDesign [file dirname [file normalize [info script]]]/top_module_finalcts.enc.dat top_module
+}
+

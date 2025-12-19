@@ -5,6 +5,6 @@
 4. **Scripts:** `SCRIPTS\` (Contains Synthesis, Physical Design, and Clock Tree Synthesis)
 
 ## Layout (DEF/GDS & Reports) 
-1. **GDS File:** `ASIC FLOW FILES\Layout\topfinal.GDS`
-2. **Post-Route Reports:** `ASIC FLOW FILES\Layout`
-3. **Post-Route Timing Reports:** `ASIC FLOW FILES\timingReports`
+1. **GDS File:** `LAYOUT\topfinal.GDS`
+2. **Post-Route Reports:** `Layout`
+3. **Post-Route Timing Reports:** `timingReports`

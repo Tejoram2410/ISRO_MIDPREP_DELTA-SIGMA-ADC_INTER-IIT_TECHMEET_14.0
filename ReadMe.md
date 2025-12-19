@@ -122,7 +122,21 @@ For detailed methodology, architectural choices, synthesis results, and post-lay
 
 ---
 
-## 👥 Team
+👥 Team
 
-**Team 76**
+Team 76
 Indian Institute of Technology Indore
+
+Team Members:
+
+Naman Goyal
+
+Himesh Jha
+
+Mohd Sharik Mansoori
+
+Tejo Rama Vigneswar Majeti
+
+Rohan Jain
+
+Manthan Gupta

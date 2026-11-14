@@ -129,11 +129,11 @@ Indian Institute of Technology Indore
 
 Team Members:
 
+Mohd Sharik Mansoori
+
 Naman Goyal
 
 Himesh Jha
-
-Mohd Sharik Mansoori
 
 Tejo Rama Vigneswar Majeti
 
